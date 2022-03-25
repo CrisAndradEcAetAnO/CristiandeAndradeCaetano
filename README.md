@@ -1,3 +1,3 @@
 # printf("Hello World :}"); 
-me chamo Cristian e seja muito bem vindo *_*
+me chamo Cristian e seja muito bem vindo :}
 
